@@ -1,0 +1,10 @@
+//
+// Created by Oscar Levin on 8/31/23.
+//
+
+#ifndef INC_3207_LAB_INTRODUCTION_F23_RANDOM_H
+#define INC_3207_LAB_INTRODUCTION_F23_RANDOM_H
+
+char randchar();
+
+#endif //INC_3207_LAB_INTRODUCTION_F23_RANDOM_H
